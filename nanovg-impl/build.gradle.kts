@@ -1,5 +1,5 @@
 // version of LWJGL to use. Recommended to be latest.
-val lwjglVersion = "3.3.3"
+val lwjglVersion = "3.3.4"
 
 // list of modules that this implementation needs to work.
 val lwjglModules = listOf("nanovg", "opengl", "stb", "glfw", null)
